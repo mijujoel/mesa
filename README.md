@@ -1,2 +1,2 @@
 # mesa
-SFI class
+SFI class on the MESA ABM program
